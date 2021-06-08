@@ -1,4 +1,4 @@
-# EEG_EMOTION_RECOGNITION
+# EEG EMOTION RECOGNITION
 
 This is original code of course project, started in HSE.
 For more details contact in telegram : @avenator.
